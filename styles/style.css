@@ -107,7 +107,6 @@
 }
 
 .two-columns__paragraph {
-  display: inline-block;
   margin: 0;
   line-height: 34px;
   font-size: 24px;
@@ -248,6 +247,8 @@
 .section-title_theme_dark {
   padding-top: 90px;
   color: white;
+  position: relative;
+  z-index: 1;
 }
 
 .section-subtitle_theme_dark {
