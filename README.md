@@ -21,6 +21,6 @@ __Инструкция по развёртыванию проекта:__
 
 1. Скачать архив данного репозитория через GitHub/клонировать репозиторий через командную строку:
 ```
-  git clone https://github.com/Kateviwe/how-to-learn.git
+git clone https://github.com/Kateviwe/how-to-learn.git
 ```
 2. Запустить проект локально.
