@@ -1,5 +1,5 @@
 # __Проект: Научиться учиться__
----
+
 ## Данный проект представляет современные и эффективные подходы к обучению, которые вы можете использовать в своей жизни.
 
 <img src=./how-to-learn_readme-file.png />
@@ -15,7 +15,7 @@ __В проекте применяются:__
 * Для создания сеток используется flex
 
 Ссылка на GitHub Pages:
-<a href="https://kateviwe.github.io/how-to-learn/" target="_blank">https://kateviwe.github.io/how-to-learn/</a>
+<a target="_blank" href="https://kateviwe.github.io/how-to-learn/">https://kateviwe.github.io/how-to-learn/</a>
 
 __Инструкция по развёртыванию проекта:__
 
