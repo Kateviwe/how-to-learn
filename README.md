@@ -11,8 +11,8 @@ __Стек технологий проекта:__
 __В проекте применяются:__
 * Анимации с использованием кейфреймов
 * Видеовставки iframe
-* Создана файловая структура по БЭМ (Nested)
-* Для создания сеток используется flex
+* Для создания сеток используется Flex
+* Файловая структура по БЭМ (Nested)
 
 Ссылка на GitHub Pages:
 <a target="_blank" href="https://kateviwe.github.io/how-to-learn/">https://kateviwe.github.io/how-to-learn/</a>
@@ -20,5 +20,7 @@ __В проекте применяются:__
 __Инструкция по развёртыванию проекта:__
 
 1. Скачать архив данного репозитория через GitHub/клонировать репозиторий через командную строку:
-    * git clone https://github.com/Kateviwe/how-to-learn.git
+```
+  git clone https://github.com/Kateviwe/how-to-learn.git
+```
 2. Запустить проект локально.
