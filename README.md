@@ -2,10 +2,23 @@
 ---
 ## Данный проект представляет современные и эффективные подходы к обучению, которые вы можете использовать в своей жизни.
 
+<img src=./how-to-learn_readme-file.png />
+
+__Стек технологий проекта:__
+* HTML
+* CSS
+
 __В проекте применяются:__
 * Анимации с использованием кейфреймов
 * Видеовставки iframe
 * Создана файловая структура по БЭМ (Nested)
 * Для создания сеток используется flex
 
-Ссылка на GitHub Pages: <https://kateviwe.github.io/how-to-learn/>
+Ссылка на GitHub Pages:
+<a href="https://kateviwe.github.io/how-to-learn/" target="_blank">https://kateviwe.github.io/how-to-learn/</a>
+
+__Инструкция по развёртыванию проекта:__
+
+1. Скачать архив данного репозитория через GitHub/клонировать репозиторий через командную строку:
+    * git clone https://github.com/Kateviwe/how-to-learn.git
+2. Запустить проект локально.
